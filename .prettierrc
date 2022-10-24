@@ -4,10 +4,7 @@
   "arrowParens": "avoid",
   "overrides": [
     {
-      "files": [
-        "*.ts",
-        "*.mts"
-      ],
+      "files": ["*.ts", "*.mts"],
       "options": {
         "parser": "typescript"
       }
